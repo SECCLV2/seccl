@@ -43,7 +43,7 @@ Sistema Nacional de Formación para el Trabajo - SENA, Dirección General
 </script>
 
         <script type="text/javascript">
-            alert("corre");
+            //alert("corre");
             $(document).ready(function() {
 
                 $("#myController").jFlow({
